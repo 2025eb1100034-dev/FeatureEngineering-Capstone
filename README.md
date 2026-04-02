@@ -36,4 +36,4 @@ This project focuses on feature engineering, preprocessing, scaling, feature sel
 https://colab.research.google.com/drive/1dqhacPS88AlSgBC6tKHTaDai7CJ6V85l?usp=sharing
 
 ## GitHub Repository Link
-Paste your GitHub repository link here
+https://github.com/2025eb1100034-dev/FeatureEngineering-Capstone
